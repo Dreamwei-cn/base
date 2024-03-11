@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="service-provider-interface:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/service_provider_interface_jar</output-path>
+    <root id="archive" name="service-provider-interface.jar">
+      <element id="module-output" name="service-provider-interface" />
+      <element id="dir-copy" path="$PROJECT_DIR$/out" />
+    </root>
+  </artifact>
+</component>
